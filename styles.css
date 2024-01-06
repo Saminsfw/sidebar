@@ -78,4 +78,7 @@ a {
   .toggle {
     z-index: 10;
   }
+  body {
+    background-color: aliceblue;
+  }
 }
